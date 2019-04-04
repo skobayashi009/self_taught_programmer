@@ -1,0 +1,2 @@
+This is a sample statememt for a practice.
+This file is a text file and it will be opened by a python file.
